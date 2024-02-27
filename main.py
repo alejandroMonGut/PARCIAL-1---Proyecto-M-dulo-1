@@ -1,6 +1,6 @@
-import api
-import  ui
-import comprobacion_datos as cd
+from api import api_gov_data_covid as api
+from ui import user_interface as ui
+from comprobacion_datos import comprobacion_datos as cd
 
 print("Proyecto Fundamentos Básicos de Python\n\n")
 
